@@ -11,7 +11,7 @@ please contact to <yusukeishihara87@gmail.com>
 
 ## ℹ️ How to use
 
-[About this app](https://portfolio-yishihara11201.vercel.app/articles/LetsSwitch)
+[About this app](https://yishihara11201.vercel.app/posts/LetsSwitch)
 
 
 ## 🔐 Prvacy Policy
