@@ -16,4 +16,4 @@ please contact to <yusukeishihara87@gmail.com>
 
 ## 🔐 Prvacy Policy
 
-[privacy policy](https://yishihara11201.github.io/Bedtime-Smartphone/PrivacyPolicy)
+[privacy policy](https://yishihara11201.github.io/LetsSwitch/PrivacyPolicy)
